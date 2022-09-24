@@ -22,7 +22,7 @@ const PageHeader = styled.div`
 export const SoundHome = () => {
   return (
     <Page>
-      <PageHeader></PageHeader>
+      <PageHeader>Title is here</PageHeader>
     </Page>
   );
 };
